@@ -1,0 +1,87 @@
+/* create section1 */
+.section1 {
+    width: 1088px;
+    height: 376px;
+    margin: 82px auto 102px auto;
+}
+/* first title */
+.bold1, .bold2 {
+    color: #5863F8;
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: bold;
+}
+.exp-menu {
+    width: 498px;
+    height: 115px;
+    font-size: 42px;
+    font-family: Poppins;
+    font-weight: 900;
+    margin-top: 1px;
+}
+/* move to menu building */
+.left-block1 {
+    width: 536px;
+    height: 190px;
+    background-color: #F8F8F8;
+    display: inline-block;  
+    margin-right: 16px;
+    margin-top: 50px;
+}
+.right-block1 {
+    width: 536px;
+    height: 190px;
+    background-color: #BE2B2B;
+    display: inline-block;
+    margin-top: 50px;
+}
+/* align text next to images */
+.image1, .image2 {
+    vertical-align: middle;
+}
+.img-text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 16px;
+}
+/* stylize text */
+.subtitle, .subtitle2 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 27px;
+}
+.description, .description2 {
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: 500;
+    color: #B1B1B1;
+    margin-top: 10px;
+    line-height: 21px;
+    width: 260px;
+}
+/* start section2 */
+.section2 {
+    width: 1088px;
+    height: 560px;
+    margin: 0px auto 154px auto;
+}
+/* build each blocks */
+.left-block2, .middle-block, .right-block2 {
+    width: 352px;
+    height: 360px;
+    background-color: #F8F8F8;
+    display: inline-block;
+}
+.left-block2, .middle-block  {
+    margin-right: 16px;
+}
+.img-text2 {
+    width: 260px;
+    height: 102px;
+    display: inline-block;
+    margin: 23px 46px;
+}
+.bold2, .subtitle2, .description2 {
+    text-align: center;
+}
